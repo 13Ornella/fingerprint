@@ -1,0 +1,13 @@
+@import url("../node_modules/font-awesome/css/font-awesome.css");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{background: #f1f1f1;}
+.main .sidebarWrapper{ height: 100vh;}
+.main .sidebarWrapper .sidebar{height: 100vh; background: #fff;}
+.main .sidebarWrapper .sidebar .sidebarTabs button{
+    justify-content: flex-start !important; text-transform: capitalize;
+     color: #000; font-size: 14px;
+      font-weight: 600;}
+.main .sidebarWrapper .sidebar .sidebarTabs button svg{font-size: 20px;}

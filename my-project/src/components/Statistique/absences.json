@@ -1,0 +1,69 @@
+[
+    {
+      "etudiant": "Christian Ralaivao",
+      "niveau": "L1",
+      "parcours": "IG",
+      "matiere": "Mathématiques",
+      "absences": {
+        "S1": { "matin": 5, "apresMidi": 3 },   
+        "S2": { "matin": 2, "apresMidi": 1 }    
+      },
+      "annee": "2023-2024"
+    },
+    {
+      "etudiant": "Christian Ralaivao",
+      "niveau": "L1",
+      "parcours": "IG",
+      "matiere": "Informatique",
+      "absences": {
+        "S1": { "matin": 4, "apresMidi": 2 },
+        "S2": { "matin": 3, "apresMidi": 0 }
+      },
+      "annee": "2023-2024"
+    },
+    {
+      "etudiant": "Louis Rabetafika",
+      "niveau": "L2",
+      "parcours": "GB",
+      "matiere": "Physique",
+      "absences": {
+        "S1": { "matin": 6, "apresMidi": 3 },
+        "S2": { "matin": 4, "apresMidi": 1 }
+      },
+      "annee": "2023-2024"
+    },
+    {
+      "etudiant": "Louis Rabetafika",
+      "niveau": "L2",
+      "parcours": "GB",
+      "matiere": "Chimie",
+      "absences": {
+        "S1": { "matin": 2, "apresMidi": 1 },
+        "S2": { "matin": 1, "apresMidi": 0 }
+      },
+      "annee": "2023-2024"
+    },
+    {
+      "etudiant": "Berthin Ramamonjisoa",
+      "niveau": "M1",
+      "parcours": "ASR",
+      "matiere": "Informatique",
+      "absences": {
+        "S1": { "matin": 3, "apresMidi": 1 },
+        "S2": { "matin": 2, "apresMidi": 1 }
+      },
+      "annee": "2023-2024"
+    },
+    {
+      "etudiant": "Berthin Ramamonjisoa",
+      "niveau": "M1",
+      "parcours": "ASR",
+      "matiere": "Anglais",
+      "absences": {
+        "S1": { "matin": 1, "apresMidi": 2 },
+        "S2": { "matin": 0, "apresMidi": 0 }
+      },
+      "annee": "2023-2024"
+    }
+  ]
+  

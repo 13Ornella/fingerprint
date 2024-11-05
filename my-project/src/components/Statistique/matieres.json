@@ -1,0 +1,28 @@
+[
+    {
+      "matiere": "Mathématiques",
+      "volume_horaire": 50,
+      "enseignant": "M. Dupont"
+    },
+    {
+      "matiere": "Physique",
+      "volume_horaire": 40,
+      "enseignant": "Mme. Martin"
+    },
+    {
+      "matiere": "Informatique",
+      "volume_horaire": 60,
+      "enseignant": "M. Leroy"
+    },
+    {
+      "matiere": "Chimie",
+      "volume_horaire": 35,
+      "enseignant": "Mme. Rousseau"
+    },
+    {
+      "matiere": "Anglais",
+      "volume_horaire": 30,
+      "enseignant": "Mme. Smith"
+    }
+  ]
+  
